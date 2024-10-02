@@ -28,10 +28,20 @@ EDA involve the exploring of the Data to answer some questions about the data su
 - which products are top seller
 - what are the products on peak sales?
 
-  ## Data Analysis
----
+## Data Analysis
+
   This is where we include somr basic lines of code or queries or even some of the DAX expressions used during the Analysis;
   ```SQL
   SELECT * FROM TABLE1
   WHERE CONDITIONS = TRUE
-  ```
+
+
+```
+## Data Visualization
+
+
+
+
+
+
+#
