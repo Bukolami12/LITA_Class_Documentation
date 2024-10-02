@@ -15,3 +15,23 @@ The Primary source of Data used here is Data road Accident.csv and this is an op
     3. For Data Visualization
 - SQL - Structured Query Language for querying of Data 
 - Github for Portfolio Building
+
+## Data Cleaning and Preparation
+In the Initial phase of the Data Cleaning and Preparations,we perform the following actions:
+1. Data loading and Inspection
+2. Handling missing Variable 
+3. Data Cleaning and Formatting
+
+## Exploratort Data Analysis 
+EDA involve the exploring of the Data to answer some questions about the data such as ;
+- what is the overall sales trend
+- which products are top seller
+- what are the products on peak sales?
+
+  ## Data Analysis
+---
+  This is where we include somr basic lines of code or queries or even some of the DAX expressions used during the Analysis;
+  ```SQL
+  SELECT * FROM TABLE1
+  WHERE CONDITIONS = TRUE
+  ```
