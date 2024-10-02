@@ -42,6 +42,9 @@ EDA involve the exploring of the Data to answer some questions about the data su
 ![Power BI Desktop 8_16_2024 1_19_02 PM](https://github.com/user-attachments/assets/2144a7a0-0b16-48f1-a837-ed9491a52c44)
 
 
+## Data Picture
+
+
 
 
 
