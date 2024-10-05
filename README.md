@@ -2,6 +2,14 @@
 
 ## Project Title: E Commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparation
+
 ## Project Overview 
 This is the data Analysis for road Accident project aims to generare insights into the root cause of road accident over the past years . By analysing the various parameter in the data received we seek to gather enough insights to make reasonable decision which them enable us to tell complrting stories around ur data from the insight gotten and to know the best performance from our data.
 
@@ -38,9 +46,16 @@ EDA involve the exploring of the Data to answer some questions about the data su
 
 ```
 ## Data Visualization
+![Screenshot (3)](https://github.com/user-attachments/assets/cba56b55-5bc4-4725-9c4e-ec4da077ce95)
 
 
 
+😆
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|----------|
+|Table 1|Table 2|Table 3|
 
 ## Data Picture
 
