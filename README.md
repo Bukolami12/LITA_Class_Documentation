@@ -1,6 +1,6 @@
 # LITA_Class_Documentation
 
-## Project Title: Road Accident Analysis 
+## Project Title: E Commerce Sales Analysis
 
 ## Project Overview 
 This is the data Analysis for road Accident project aims to generare insights into the root cause of road accident over the past years . By analysing the various parameter in the data received we seek to gather enough insights to make reasonable decision which them enable us to tell complrting stories around ur data from the insight gotten and to know the best performance from our data.
@@ -39,7 +39,7 @@ EDA involve the exploring of the Data to answer some questions about the data su
 ```
 ## Data Visualization
 
-![Power BI Desktop 8_16_2024 1_19_02 PM](https://github.com/user-attachments/assets/2144a7a0-0b16-48f1-a837-ed9491a52c44)
+
 
 
 ## Data Picture
