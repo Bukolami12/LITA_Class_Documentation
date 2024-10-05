@@ -4,11 +4,13 @@
 
 [Project Overview](#project-overview)
 
-Data Sources
+[Data Sources](#data-sources)
 
-Tools Used
+[Tools Used](#tools-used)
 
-Data Cleaning and Preparation
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Data Analysis](#data-analysis)
 
 ## Project Overview 
 This is the data Analysis for road Accident project aims to generare insights into the root cause of road accident over the past years . By analysing the various parameter in the data received we seek to gather enough insights to make reasonable decision which them enable us to tell complrting stories around ur data from the insight gotten and to know the best performance from our data.
