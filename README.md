@@ -1,10 +1,9 @@
-# LITA_Class_Documentation
+# Sales Data Analysis Project
 
-## Project Title: E Commerce Sales Analysis
 
-[Project Overview](#project-overview)
+[Overview](#overview)
 
-[Data Sources](#data-sources)
+[Data Collected](#data-collected)
 
 [Tools Used](#tools-used)
 
@@ -14,12 +13,37 @@
 
 [Data Visualization](#data-visualization)
 
-## Project Overview 
-This is the data Analysis for E commerce sale analysis aims to generare insights  . By analysing the various parameter in the data received we seek to gather enough insights to make reasonable decision which them enable us to tell complrting stories around ur data from the insight gotten and to know the best performance from our data.
+## Overview 
+This project aims to analyze sales data from various regions,markets and stores to provide actionable insights into revenue,unit sold and transaction categories across different periods.The analysis focuses on sales performance, revenue trends across regions and calculating key metrics 
+such as average revenue by region.
+## Data Collected
+ The dataset includes the following key columns:
+ 1. Region: Geographical area where sales occurred.
+ 
+ 2. Market: Specific market within the region.
 
-## Data Sources
-The Primary source of Data used here is Sales.csv and this is an open source data that can be freely downloaded from an open source online such as Kaggle or Fred or any other data repository site.
+ 3. Store: The individual store from which the sales data is collected.
+ 
+ 4. Trade Date: Date of sales transaction.
+ 
+ 5. Fiscal Period: A timeframe for which trade date belongs.
+ 
+ 6. Model:The product model been sold.
+ 
+ 7. Line of Business: The business category under which the sales fall
+ 
+ 8. Day: The day of the week for the transaction.
+ 
+ 9. Category: The broader category of the item .
+ 
+ 10. Revenue: Total sales amount.
+ 
+ 11. Unit Sold: The number of unit sold for a transaction.
+ 
+ 12. Transaction Category: Sales transaction type (e.g Return,Online)
 
+## Project Objective
+This Project
 ## Tools Used
 - Microsoft Excel [Download Here](https://wwww.microsoft.com)
     1. for Data Cleaning
