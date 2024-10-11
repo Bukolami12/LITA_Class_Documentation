@@ -1,3 +1,4 @@
+
 # Sales Data Analysis Project
 
 
@@ -66,7 +67,7 @@ This Project was designed to address the following analysis goals:
 - Average Revenue By Region: To get the average revenue per unit sold in a region,use the formular:
 
 ## Formular Used
- Average Revenue = Total Revenue / Units Sold 
+ Average Revenue = Total Revenue / Units Sold
 
 
 ## Tools and Methods  Used
@@ -78,7 +79,21 @@ This Project was designed to address the following analysis goals:
  ## Visual Analysis and Inference
  
  # 1. Revenue by Region
- 
+
+ ## Pivot Table
+ ![Pivot Tables File xlsx - 1](https://github.com/user-attachments/assets/6779bac9-203f-452f-916f-ef3b87a6bcfd)
+
+
+ ## Filtered Chart for Year 2014:
+ ![Pivot Tables File  2014](https://github.com/user-attachments/assets/eb3da991-2ee8-43ce-ac03-49fac1b0e1ca)
+
+
+ ## FIltered Chart for Year 2015
+  ![Pivot Tables File  2015](https://github.com/user-attachments/assets/897063ca-9449-42a5-8037-6a065dab59be)
+
+ ## Inference
+
+
 
 
 
