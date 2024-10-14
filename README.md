@@ -6,14 +6,18 @@
 
 [Data Collected](#data-collected)
 
-[Project Objectives](#project-objectives)
+[Project Objective](#project-objective)
 
-[Tools Used](#tools-used)
+[Key Metrics](#key-metrics)
+
+[How to Use the Data](#how-to-use-the-data)
+
+[Tools and Methods Used](#tools-and-methods-used)
+
+[Visual Analysis and Inference](#visual-analysis-and-inference)
 
 
-[Data Analysis](#data-analysis)
 
-[Data Visualization](#data-visualization)
 
 ## Overview 
 This project aims to analyze sales data from various regions,markets and stores to provide actionable insights into revenue,unit sold and transaction categories across different periods.The analysis focuses on sales performance, revenue trends across regions and calculating key metrics 
@@ -67,10 +71,10 @@ This Project was designed to address the following analysis goals:
 - Average Revenue By Region: To get the average revenue per unit sold in a region,use the formular:
 
 ## Formular Used
- Average Revenue = Total Revenue / Units Sold
 
-
-## Tools and Methods  Used
+ ``Average Revenue = Total Revenue / Units Sold
+``
+## Tools and Methods Used
 - Microsoft Excel [Download Here](https://wwww.microsoft.com)
     1. For Data Cleaning: Removing duplicates, data filtering,handling missing values were method used to clean the data to ensure the accuraccy and reliabilty of our analysis. 
     2. For Analysis:The data was analyzed, using Pivot table summarize and filter the data for east interpretation.
@@ -92,8 +96,32 @@ This Project was designed to address the following analysis goals:
   ![Pivot Tables File  2015](https://github.com/user-attachments/assets/897063ca-9449-42a5-8037-6a065dab59be)
 
  ## Inference
+  1. ### Overall Revenue Trends:
+      - There is a decrease in total revenue acreoss all regions from 2014 to 2015.This Suggest challenges in sales performance affecting revenue generation.
+  2. ### Regional Performance :
+      - North East: The North East region had the highest revenue in 2014 but there was drop in 2015. This decline may indicate economic downturn or inefficient sales 
+        processes.
+      - South West: This region also show decrease in revenue although it remain the region that has performing areas.
+      - South South: The revenue for this region appears to decline slightly , indicating a potential area of concern.
+      - South East: Similar to South South, this region also show a drastic decline in revenue , which could suggest challenges in market saturation.
+      - North West and North Central: These two regions show lower revenue figures,with North Central consistently trailing behind other regions.
+    
+   3. ### Revenue Distribution
+        - The bar charts illustrate a clear drop in revenue for 2015 compared to 2014,showing that while North East led in 2014,the gap between regions has narrowed 
+          suggesting that the overall market conditions may be affecting all regions similarly.
 
+   4. ### Strategic Implications:
+         - The drop in revenue across all regions indicate a call for strategic reassessment. The company might need to investigate the root cause of this decline 
+           such as change in market demands,increased cost or expenses or competitive pressures.
+         - Conducting a thorough revenue analysis and focused marketing may be necessary to stimulate sales in declining regions,particularly in North East and South 
+           West.
 
+  ## Conclusion
+  The revenue data for 2014 to 2015 shows a concerning trend for a declining revenue across most region . This necessitate the need for the company to analyze market conditions and 
+  implement strategies to stimulate performance and regions lost revenue. Looking into challenges faced by North East and South South regions in particular,will be important for 
+  future growth.
+  
+            
 
 
 
