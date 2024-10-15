@@ -126,9 +126,25 @@ This Project was designed to address the following analysis goals:
   # 2. Region by Units Sold   
 
   ### Pivot Table:
-
   
+   ![unit sold](https://github.com/user-attachments/assets/67255a3f-d975-40fd-a5b5-b21788b3f5fd)
 
+
+  ## Filtered Chart for Year 2014:
+  
+  ![2014 sold](https://github.com/user-attachments/assets/be88744e-aa79-4367-8c84-ae3a96db796c)
+
+
+
+## Filtered Chart for Year 2015:
+
+  ![2015 sld](https://github.com/user-attachments/assets/9cc8ec00-4ef6-4287-b8e7-8d116eff6bfe)
+
+
+## Inferences
+  1. ### Overall Sales Growth:
+     - There is a noticeable decrease in total unit sold from 2014 to 2015. The North East Region, while leading shows a decrease in the 
+       number of unit sold compare to the previous yesr,indicating saturation in that market.
 
 
 
@@ -141,19 +157,9 @@ This Project was designed to address the following analysis goals:
 
 
 ```
-## Data Visualization
-![Screenshot (3)](https://github.com/user-attachments/assets/cba56b55-5bc4-4725-9c4e-ec4da077ce95)
 
 
 
-😆
-💻
-
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|----------|
-|Table 1|Table 2|Table 3|
-
-## Data Picture
 
 
 
