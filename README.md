@@ -119,8 +119,9 @@ This Project was designed to address the following analysis goals:
            West.
 
   ## Conclusion
-  The revenue data for 2014 to 2015 shows a concerning trend for a declining revenue across most region . This necessitate the need for the company to analyze market conditions and 
-  implement strategies to stimulate performance and regions lost revenue. Looking into challenges faced by North East and South South regions in particular,will be important for 
+  The revenue data for 2014 to 2015 shows a concerning trend for a declining revenue across most region . This necessitate the need for the company to analyze market 
+  conditions and implement strategies to stimulate performance and regions lost revenue. Looking into challenges faced by North East and South South regions in 
+  particular,will be important for 
   future growth.
   
   # 2. Region by Units Sold   
@@ -132,31 +133,40 @@ This Project was designed to address the following analysis goals:
 
   ## Filtered Chart for Year 2014:
   
-  ![2014 sold](https://github.com/user-attachments/assets/be88744e-aa79-4367-8c84-ae3a96db796c)
+  ![2014 pa](https://github.com/user-attachments/assets/66ba5620-7464-4eca-8ef3-613f7513475c)
+
 
 
 
 ## Filtered Chart for Year 2015:
 
-  ![2015 sld](https://github.com/user-attachments/assets/9cc8ec00-4ef6-4287-b8e7-8d116eff6bfe)
+  ![2015 pa](https://github.com/user-attachments/assets/8780100a-fad4-4bdf-a333-250506fc3acd)
+
 
 
 ## Inferences
   1. ### Overall Sales Growth:
      - There is a noticeable decrease in total unit sold from 2014 to 2015. The North East Region, while leading shows a decrease in the 
        number of unit sold compare to the previous yesr,indicating saturation in that market.
-
-
-
-## Data Analysis
-
-  This is where we include some basic lines of code or queries or even some of the DAX expressions used during the Analysis;
-  ```SQL
-  SELECT * FROM TABLE1
-  WHERE CONDITIONS = TRUE
-
-
-```
+  2. ### Regional Performance Changes:
+     - 	North East: In 2014, the North East accounted for 27% of total sales, but this declined to 26% in 2015. This suggests a local economic conditions.
+     -	South West: The South West region has improved its performance, increasing its share from 21% to 22%. This indicates a positive trend and potential for further 
+       growth.
+     -	North Central and North West: Both regions continue to show low sales figures, indicating a need for targeted strategies to boost performance in these areas.
+   3. ### Market Dynamics: 
+      - The South East and South South regions maintained a steady performance, with the South East holding at 16% and the South South slightly increasing its share. 
+        This stability may suggest a consistent demand in these regions.
+   4.	### Sales Distribution:
+       - The pie chart shows a more balanced distribution of sales across regions in 2015 compared to 2014. The North East's slight decline in percentage share 
+         indicates that other regions are gaining progress, which could be a sign of adjusting sales strategies and enhancing customer experience.             
+   5.	### Strategic Implications:
+        - The data suggests that while the North East remains a key market, the company should consider investing more resources into the South West and potentially  
+          explore opportunities in the North Central and North West regions to enhance overall sales performance.
+           
+ ## Conclusion
+    The sales data from 2015 shows a shift in market dynamics, with some regions improving their performance while the North East shows signs of stagnation. A 
+    strategic focus on areas that are not doin well, along with continued support for growing regions, could lead to more balanced and sustainable growth in the 
+    future.
 
 
 
