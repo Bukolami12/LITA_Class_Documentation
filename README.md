@@ -89,11 +89,13 @@ This Project was designed to address the following analysis goals:
 
 
  ## Filtered Chart for Year 2014:
- ![Pivot Tables File  2014](https://github.com/user-attachments/assets/eb3da991-2ee8-43ce-ac03-49fac1b0e1ca)
+   ![2014 co](https://github.com/user-attachments/assets/bbf84a79-75d7-4b9f-86ed-76bafec50a89)
+
 
 
  ## FIltered Chart for Year 2015
-  ![Pivot Tables File  2015](https://github.com/user-attachments/assets/897063ca-9449-42a5-8037-6a065dab59be)
+  ![2015 co](https://github.com/user-attachments/assets/ad6bc5ba-c96b-45b1-ac37-8a1c4a4d99ae)
+
 
  ## Inference
   1. ### Overall Revenue Trends:
@@ -121,7 +123,11 @@ This Project was designed to address the following analysis goals:
   implement strategies to stimulate performance and regions lost revenue. Looking into challenges faced by North East and South South regions in particular,will be important for 
   future growth.
   
-            
+  # 2. Region by Units Sold   
+
+  ### Pivot Table:
+
+  
 
 
 
