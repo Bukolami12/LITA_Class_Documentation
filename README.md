@@ -153,26 +153,39 @@ This Project was designed to address the following analysis goals:
      -	South West: The South West region has improved its performance, increasing its share from 21% to 22%. This indicates a positive trend and potential for further 
        growth.
      -	North Central and North West: Both regions continue to show low sales figures, indicating a need for targeted strategies to boost performance in these areas.
-   3. ### Market Dynamics: 
+  3. ### Market Dynamics: 
       - The South East and South South regions maintained a steady performance, with the South East holding at 16% and the South South slightly increasing its share. 
         This stability may suggest a consistent demand in these regions.
-   4.	### Sales Distribution:
-       - The pie chart shows a more balanced distribution of sales across regions in 2015 compared to 2014. The North East's slight decline in percentage share 
-         indicates that other regions are gaining progress, which could be a sign of adjusting sales strategies and enhancing customer experience.             
-   5.	### Strategic Implications:
+  4.	### Sales Distribution:
+        - The pie chart shows a more balanced distribution of sales across regions in 2015 compared to 2014.The North East's slight decline in percentage share indicate
+          that other regions are gaining progress which could be a sign of adjusting sales strategies and enhancing customer experience.             
+  5.	### Strategic Implications:
         - The data suggests that while the North East remains a key market, the company should consider investing more resources into the South West and potentially  
           explore opportunities in the North Central and North West regions to enhance overall sales performance.
-           
- ## Conclusion
-    The sales data from 2015 shows a shift in market dynamics, with some regions improving their performance while the North East shows signs of stagnation. A 
-    strategic focus on areas that are not doin well, along with continued support for growing regions, could lead to more balanced and sustainable growth in the 
-    future.
 
 
+## Conclusion 
+   The sales data from 2015 shows a shift in market dynamics, with some regions improving their performance while the North East shows signs of stagnation. A 
+   strategic focus on areas that are not doin well, along with continued support for growing regions, could lead to more balanced and 
+   sustainable growth 
+   in the future. 
 
 
+ # 3. Average Revenue By Region
+
+ ### Pivot Table:
+
+![average region](https://github.com/user-attachments/assets/cf1500c2-a08a-404b-808f-1a408a953554)
+
+## Filtered Chart for Year 2014:
+
+![2014 REGION](https://github.com/user-attachments/assets/9b1f3496-ec29-4e3c-8695-019c4797bada)
+
+## Filtered Chart for Year 2015:
+
+![2015 REGION](https://github.com/user-attachments/assets/76eb8219-0b8f-4f65-b0bc-c559867d6097)
 
 
+## Inferences
 
-
-
+ 1. ### Overall Revenue Trends:
