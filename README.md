@@ -189,3 +189,27 @@ This Project was designed to address the following analysis goals:
 ## Inferences
 
  1. ### Overall Revenue Trends:
+    - 	The average revenue across all regions appears to have increase from 2014 to 2015. This suggests a positive trend in revenue generation,showing increase in pricing strategies
+       and sales.
+
+ 2. ### Regional Performance:
+    - 	North Central: Maintains the highest average revenue in both years, showing consistency in its performance.
+    - 	North East: The average revenue remains stable, showing that it continues to be a strong market, although it doesn't show  growth.
+    - 	North West: This region shows an increase in average revenue, suggesting improved performance or market conditions.
+    - 	South East and South South: Both regions appear to have similar average revenues, with no significant changes from 2014 to 2015.
+    - 	South West: This region also shows a stable average revenue, indicating consistent performance.
+   
+ 3. ### Revenue Distribution:
+     - The bar charts show North Central has the highest average revenue, the gap betwwen region is not wide,suggesting a balanced revenue distribution in 2015
+       compared to 2014.
+
+ 4. ### Strategic Implications:
+     -	The sustainability in revenue across regions suggests that while some areas are performing well, there may be opportunities for growth in regions like the South East and South 
+       South.Targeting marketing strategies could help enhance their performance.
+     -	The North Central region's strong performance should be serve as a model for other regions, potentially sharing successful  practices.
+   
+ ## Conclusion 
+   The average revenue data from 2014 to 2015 indicates overall growth, with sustainable performances across most regions. The company should focus on maintaining this advancement  
+   while exploring opportunities for improvement in regions that are currently underperforming.
+
+      
