@@ -19,7 +19,7 @@
 
 
 
-## Overview 
+## Project Overview 
 This project aims to analyze sales data from various regions,markets and stores to provide actionable insights into revenue,unit sold and transaction categories across different periods.The analysis focuses on sales performance, revenue trends across regions and calculating key metrics 
 such as average revenue by region.
 ## Data Collected
@@ -77,7 +77,7 @@ This Project was designed to address the following analysis goals:
 ## Tools and Methods Used
 - Microsoft Excel [Download Here](https://wwww.microsoft.com)
     1. For Data Cleaning: Removing duplicates, data filtering,handling missing values were method used to clean the data to ensure the accuraccy and reliabilty of our analysis. 
-    2. For Analysis:The data was analyzed, using Pivot table summarize and filter the data for east interpretation.
+    2. For Analysis:The data was analyzed, using Pivot table summarize and filter the data for each interpretation.
     3. For Data Visualization: Bar charts were created in Excel to visualize the key insights.
  
  ## Visual Analysis and Inference
