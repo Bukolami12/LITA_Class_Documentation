@@ -59,7 +59,7 @@ This Project was designed to address the following analysis goals:
 ## Key Metrics
 - Revenue: Sum of revenue column grouped by region.
 
-- Unit Sold: Sum od unit sold  grouped by region.
+- Unit Sold: Sum of unit sold  grouped by region.
 
 - Average Revenue: This was calculated as Total Revenue/ Total unit sold for each region to measure thr revenue efficiency.
 
